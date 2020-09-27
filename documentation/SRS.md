@@ -29,7 +29,9 @@
 Аналогами данного проекта являются такие приложения, как: ["Schedule BSUIR"](https://apps.apple.com/ru/app/schedule-bsuir/id1516457479/) и ["Bsuir Schedule"](https://apps.apple.com/by/app/bsuir-schedule/id944151090?l=ru/).
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-Проект использует фреймворк Qt и не взаимодействует с внешними системами и сервисами.
+1) Xcode - фреймворк по разработке приложения для платформы iOS.
+2) Swift - язык разработки.
+3) iis.bsuir.by/api/rules - сервис «Расписание БГУИР» предоставляющий программные интерфейсы, предназначенные для работы с расписанием групп и преподавателей.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/mockups/MainWindow.png) и [способа регулирования громкости](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/mockups/ShowVolume.png).
 Отдельного рассмотрения требует главное окно:
