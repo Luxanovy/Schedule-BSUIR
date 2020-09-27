@@ -34,7 +34,7 @@
 2) Swift - мультипарадигмальный компилируемый язык программирования общего назначения, созданный компанией Apple для разработчиков iOS и macOS.
 3) ["BSUIR API"](https://iis.bsuir.by/api/rules) - сервис «Расписание БГУИР» предоставляющий программные интерфейсы, предназначенные для работы с расписанием групп и преподавателей.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс проекта представлен с помощью мокапов [для студентов](https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Студенты.png) и [для преподавателей](https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Преподаватели.png).
+Графический интерфейс проекта представлен с помощью мокапов [для студентов]https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Студенты.pdf) и [для преподавателей](https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Преподаватели.pdf).
 Отдельного рассмотрения требует главное окно:
 
 Клавиша | Реакция
