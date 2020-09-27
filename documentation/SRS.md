@@ -30,8 +30,8 @@
 Аналогами данного проекта являются такие приложения, как: ["Schedule BSUIR"](https://apps.apple.com/ru/app/schedule-bsuir/id1516457479/) и ["Bsuir Schedule"](https://apps.apple.com/by/app/bsuir-schedule/id944151090?l=ru/).
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-1) Xcode - фреймворк по разработке приложения для платформы iOS.
-2) Swift - мультипарадигмальный компилируемый язык программирования общего назначения, созданный компанией Apple для разработчиков iOS и macOS.
+1) ["Xcode"](https://developer.apple.com/xcode/) - фреймворк по разработке приложения для платформы iOS.
+2) ["Swift"](https://www.apple.com/ru/swift/) - мультипарадигмальный компилируемый язык программирования общего назначения, созданный компанией Apple для разработчиков iOS и macOS.
 3) ["BSUIR API"](https://iis.bsuir.by/api/rules) - сервис «Расписание БГУИР» предоставляющий программные интерфейсы, предназначенные для работы с расписанием групп и преподавателей.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Графический интерфейс проекта представлен с помощью мокапов [для студентов](https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Студенты.pdf) и [для преподавателей](https://github.com/Luxanovy/TRITPO/blob/master/documentation/mockup/Преподаватели.pdf).
