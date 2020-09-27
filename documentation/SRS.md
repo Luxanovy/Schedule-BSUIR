@@ -28,8 +28,8 @@
 Приложение предоставит возможность просмотра расписания занятий студентам и преподавателям. В это входит возможность выбора нужной вам группы, нужной недели и дня занятия,  просмотр названия предмета, тип занятия, время проведения занятия, аудитория проведения.
 #### 1.3 Аналоги <a name="1.3"></a>
 Аналогами данного проекта являются такие приложения, как:
-*["Schedule BSUIR"](https://apps.apple.com/ru/app/schedule-bsuir/id1516457479/) 
-*["Bsuir Schedule"](https://apps.apple.com/by/app/bsuir-schedule/id944151090?l=ru/).
+* ["Schedule BSUIR"](https://apps.apple.com/ru/app/schedule-bsuir/id1516457479/) 
+* ["Bsuir Schedule"](https://apps.apple.com/by/app/bsuir-schedule/id944151090?l=ru/).
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
 1) ["Xcode"](https://developer.apple.com/xcode/) - фреймворк по разработке приложения для платформы iOS.
