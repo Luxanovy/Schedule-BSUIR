@@ -13,7 +13,7 @@
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://ссылка)
+![Use Case](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Use%20case/use%20case.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
@@ -65,10 +65,10 @@ BSUIR API|Сервис для предоставление информации 
 3. Конец.
 
 ### 2. Диаграмма активности<a name="2"></a>
-Диаграммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://ссылка)
+Диаграммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Activity/README.md)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования:
-![Sequence Diagram](https://ссылка)
-![Sequence Diagram](https://ссылка)
-![Sequence Diagram](https://ссылка)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/day.png)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/group.png)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/subgroup.png)
