@@ -69,6 +69,6 @@ BSUIR API|Сервис для предоставление информации 
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования:
-![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/day.png)
-![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/group.png)
-![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/subgroup.png)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/day.jpg)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/group.jpg)
+![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/subgroup.jpg)
