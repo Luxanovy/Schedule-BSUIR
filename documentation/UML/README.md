@@ -72,3 +72,18 @@ BSUIR API|Сервис для предоставление информации 
 ![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/day.jpg)
 ![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/group.jpg)
 ![Sequence Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/Sequence/subgroup.jpg)
+
+### 4. Диаграмма состояний<a name="4"></a>
+Диаграммы состояний представляют собой следующие диаграммы:
+![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/detailsState.png)
+![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/5daysState.png)
+
+### 5. Диаграмма классов<a name="5"></a>
+Диаграмма классов представляет собой следующую диаграмму:
+
+![Diagram Class](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/class%20diagram/DiagramClass.png)
+
+### 6. Диаграмма развертывания и компонентов<a name="6"></a>
+Диаграмма развёртывания и компонентов представляет собой следующую диаграмму:
+
+![Deployment-Component](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/deployment-component/Deployment-Component.png)
