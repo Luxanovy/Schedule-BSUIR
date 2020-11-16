@@ -75,15 +75,17 @@ BSUIR API|Сервис для предоставление информации 
 
 ### 4. Диаграмма состояний<a name="4"></a>
 Диаграммы состояний представляют собой следующие диаграммы:
-![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/detailsState.png)
-![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/5daysState.png)
+![State Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/state/Состояние1.jpg)
+![State Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/state/Состояние2.jpg)
+![State Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/state/Состояние3.jpg)
+![State Diagram](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/state/Состояние4.jpg)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму:
 
-![Diagram Class](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/class%20diagram/DiagramClass.png)
+![Diagram Class]https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/class%20diagram/DiagramClass.png)
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 Диаграмма развёртывания и компонентов представляет собой следующую диаграмму:
 
-![Deployment-Component](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/deployment-component/Deployment-Component.png)
+![Deployment-Component](https://github.com/Luxanovy/TRITPO/blob/master/documentation/UML/deployment-component/Deployment-Component.png)
