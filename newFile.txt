@@ -1,0 +1,25 @@
+12345678
+
+
+
+qq
+:q
+
+
+>>
+:q
+:wq
+:q!
+	q
+q
+:q
+w
+
+:
+exit
+save
+run back
+get back
+s
+	:x!
+:x!
